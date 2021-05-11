@@ -8,7 +8,7 @@
 6. Double Linked List
 7. Recursion with Linked Lists
 8. Binary Search Tree
-9. Tree
+9. Project2 - 회사 조직도
 10. Heap
 11. Weighted Graph
 12. Sorting
